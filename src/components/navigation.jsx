@@ -18,7 +18,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            SUN MINERALS
+            <div style={{ display: "flex",alignItems:"center" }}><img src="img/logo-transparent.png" alt="logo" width="35" height="35" style={{marginRight:'5px'}} />
+              SUN MINERALS
+            </div>
           </a>{" "}
         </div>
 
