@@ -2,7 +2,7 @@ import React from "react";
 
 export const Navigation = (props) => {
   return (
-    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+    <nav id="menu" className="navbar navbar-default navbar-fixed-top ">
       <div className="container">
         <div className="navbar-header">
           <button
@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <div style={{ display: "flex",alignItems:"center" }}><img src="img/logo-transparent.png" alt="logo" width="35" height="35" style={{marginRight:'5px'}} />
+            <div style={{ display: "flex",alignItems:"center" }}><img src="img/logo.jpg" alt="logo" width="42" height="42" style={{marginRight:'5px'}} />
               SUN MINERALS
             </div>
           </a>{" "}
