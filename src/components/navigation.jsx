@@ -58,8 +58,8 @@ export const Navigation = (props) => {
               </a>
             </li> */}
             <li>
-              <a href="#contact" className="page-scroll">
-                Contact
+              <a href="" className="page-scroll mb-4" data-toggle="modal" data-target="#modalContactForm">
+                Contact Us
               </a>
             </li>
           </ul>

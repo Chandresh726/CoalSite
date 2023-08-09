@@ -162,12 +162,12 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-bolt",
       "title": "Gross Calorific Value HCV,kcal/kg(ADB)",
       "text": "5500 to 6000 kcal/kg"
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-gear",
       "title": "Gross Calorific Value HCV,kcal/kg(ARB)",
       "text": "3200 to 4300 kcal/kg"
     }

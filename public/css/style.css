@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/coal_bg.jpg) center center no-repeat;
+  background: url(../img/background.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -458,6 +458,10 @@ header .intro-text {
   color: #888;
 }
 /* Contact Section */
+.modal-content {
+  padding: 10px 40px;
+}
+
 #contact {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
